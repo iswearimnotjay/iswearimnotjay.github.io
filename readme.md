@@ -6,3 +6,6 @@ int main() {
    return 0;
 }
 ```
+
+### socials
+https://twitter.com/iswearimnotjayy (ikr bleeh)
